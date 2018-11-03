@@ -1,0 +1,3 @@
+c:\users\jasser\documents\visual studio 2015\Projects\admin_charity\admin_charity.Module.Web\obj\Debug\admin_charity.Module.Web.csprojResolveAssemblyReference.cache
+c:\users\jasser\documents\visual studio 2015\Projects\admin_charity\admin_charity.Module.Web\obj\Debug\admin_charity.Module.Web.admin_charityAspNetModule.resources
+c:\users\jasser\documents\visual studio 2015\Projects\admin_charity\admin_charity.Module.Web\obj\Debug\admin_charity.Module.Web.csproj.GenerateResource.Cache
